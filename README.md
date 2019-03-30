@@ -3,3 +3,4 @@ COKOLWIEK
 NA GITHUB
 do loklanego
 do lokalnego 2
+tagowanie
