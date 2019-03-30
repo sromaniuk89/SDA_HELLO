@@ -1,3 +1,4 @@
 # SDA_HELLO
 COKOLWIEK
 NA GITHUB
+do loklanego
